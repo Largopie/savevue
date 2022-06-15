@@ -20,6 +20,9 @@
       <v-col>
         1
       </v-col>
+      <v-col>
+        안녕하세요
+      </v-col>
     </v-row>
   </v-container>
 </template>
